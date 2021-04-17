@@ -1,0 +1,39 @@
+.:
+total 12
+drwxr-xr-x 4 lxavier- lxavier-  291 Mar 31 18:07 .
+drwxr-xr-x 3 lxavier- lxavier-   38 Mar 31 14:35 ..
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 16:58 arbquivosh
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 16:58 arcquivosh
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 16:58 ardquivosh
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 14:35 arquivo1.sh
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 14:35 arquivo2.sh
+-rw-r--r-- 1 lxavier- lxavier-  357 Mar 31 16:30 arquivo3sh
+-rw-r--r-- 2 lxavier- lxavier-    0 Mar 31 14:41 arquivo4.c
+-rw-r--r-- 2 lxavier- lxavier-    0 Mar 31 14:41 arquivo4link.c
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 17:00 arquivo5.c
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 14:35 arquivosh.txt
+lrwxrwxrwx 1 lxavier- lxavier-   10 Mar 31 17:55 arquivosoftlink -> arbquivosh
+drwxr-xr-x 2 lxavier- lxavier-    6 Mar 31 17:46 diretorio2
+drwxr-xr-x 3 lxavier- lxavier-   52 Mar 31 17:37 diretorio.sh
+-rw-r--r-- 1 lxavier- lxavier-    0 Mar 31 18:07 fil3e
+-rw-r--r-- 1 lxavier- lxavier- 1649 Mar 31 18:07 file
+-rw-r--r-- 1 lxavier- lxavier-  856 Mar 31 17:56 wc
+
+./diretorio2:
+total 0
+drwxr-xr-x 2 lxavier- lxavier-   6 Mar 31 17:46 .
+drwxr-xr-x 4 lxavier- lxavier- 291 Mar 31 18:07 ..
+
+./diretorio.sh:
+total 0
+drwxr-xr-x 3 lxavier- lxavier-  52 Mar 31 17:37 .
+drwxr-xr-x 4 lxavier- lxavier- 291 Mar 31 18:07 ..
+drwxr-xr-x 2 lxavier- lxavier-  37 Mar 31 17:37 diretorio-do-diretorio
+-rw-r--r-- 1 lxavier- lxavier-   0 Mar 31 17:36 teste.sh
+
+./diretorio.sh/diretorio-do-diretorio:
+total 0
+drwxr-xr-x 2 lxavier- lxavier- 37 Mar 31 17:37 .
+drwxr-xr-x 3 lxavier- lxavier- 52 Mar 31 17:37 ..
+-rw-r--r-- 1 lxavier- lxavier-  0 Mar 31 17:37 teste.c
+-rw-r--r-- 1 lxavier- lxavier-  0 Mar 31 17:37 teste.sh

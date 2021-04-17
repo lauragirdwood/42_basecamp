@@ -1,0 +1,74 @@
+enquanto o primeiro for 0:
+	segundo começa 1 e terceiro com 2 até q terceiro seja 9
+	quando terceiro for 9
+	segundo começa com 2 e terceiro com 3 até q terceiro seja 9
+	quando terceiro for 9
+	segundo começa com 3 e terceiro com 4 até q terceiro seja 9
+	quando terceiro for 9
+	segundo começa com 4 e terceiro com 5 até q terceiro seja 9
+	quando terceiro for 9
+	segundo começa com 5 e terceiro com 6 até q terceiro seja 9
+	quando terceiro for 9
+	segundo começa com 6 e terceiro com 7 até q terceiro seja 9
+	quando terceiro for 9
+	segundo começa 7 e terceiro com 8 até q terceiro seja 9
+	quando terceiro for 9
+	segundo fica com 8 e terceiro com 9 
+termina
+
+10
+_ _ _
+7 8 9 
+
+10
+_ _ _ _
+6 7 8 9
+
+10
+_ _ _ _ _
+5 6 7 8 9
+(inicio, fim)
+
+012 
+013 023 
+014 024 034 
+015 025 035 045
+016 026 036 046 056 
+017 027 037 047 057 067 
+018 028 038 048 058 068 078
+019 029 039 049 059 069 079 089
+
+123 
+124 134	
+125 135	145
+126 136 146 156
+127 137 147 157 167 
+128 138 148 158 168 178 
+129 139 149 159 169 179 189
+
+234
+235 245 
+236 246 256
+237 247 257 267
+238 248 258 268 278 
+239 249 259 269 279 289
+
+345
+346 356
+347 357 367
+348 358 368 378
+349 359 369 379 389
+
+456
+457 467 
+458 468 478
+459 469 479 489
+
+567
+568 578
+569 579 589
+
+678
+679 689
+
+789
